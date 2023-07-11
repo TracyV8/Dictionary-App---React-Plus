@@ -1,3 +1,7 @@
+body {
+  background: rgb(225, 237, 247);
+}
+
 .App {
   text-align: center;
 }
@@ -8,14 +12,17 @@
 }
 
 .App-header {
-  background-color: white;
+  background-color: rgb(240, 231, 231);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 36px;
-  color: black;
-  margin: 30px 0px;
+  font-size: 80px;
+  color: rgb(47, 16, 158);
+  margin: 60px 0px;
+  border-radius: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 60px;
 }
 
 .App-link {
@@ -25,4 +32,7 @@
   text-align: center;
   font-size: 12px;
   margin: 30px 0;
+}
+.App-container {
+  border-radius: 10px;
 }
