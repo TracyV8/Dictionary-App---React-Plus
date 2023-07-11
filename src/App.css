@@ -21,3 +21,8 @@
 .App-link {
   color: #61dafb;
 }
+.App-footer {
+  text-align: center;
+  font-size: 12px;
+  margin: 30px 0;
+}
