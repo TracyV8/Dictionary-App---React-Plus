@@ -2,7 +2,7 @@
   background-color: white;
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
   margin: 20px 0;
 }
 .Dictionary input {
@@ -14,4 +14,5 @@
 }
 .Dictionary .hint {
   margin-bottom: 15px;
+  font-size: 25px;
 }

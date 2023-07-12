@@ -6,7 +6,7 @@ export default function Meaning(props) {
   console.log(props.meaning);
   return (
     <div className="Meaning">
-      <h4>{props.meaning.partOfSpeech} </h4>
+      <h4 className="meaning">{props.meaning.partOfSpeech} </h4>
       <p>
         {" "}
         <strong> Definition: </strong>

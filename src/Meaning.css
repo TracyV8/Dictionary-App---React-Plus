@@ -1,3 +1,7 @@
 .Meaning {
   text-align: left;
 }
+.Meaning .meaning {
+  line-height: 1.5;
+  font-size: 25px;
+}
